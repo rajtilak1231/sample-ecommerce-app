@@ -32,7 +32,7 @@
 
         <!-- Username/Password Authentication -->
         <sonar.login>admin</sonar.login>
-        <sonar.password>sonaqube</sonar.password>
+        <sonar.password>Atphyd@12345</sonar.password>
 
         <!-- Coverage Report -->
         <sonar.coverage.jacoco.xmlReportPaths>
