@@ -1,0 +1,5 @@
+com/example/ecommerce/config/WebConfig.class
+com/example/ecommerce/controller/ProductController.class
+com/example/ecommerce/EcommerceApplication.class
+com/example/ecommerce/model/Product.class
+com/example/ecommerce/service/ProductService.class

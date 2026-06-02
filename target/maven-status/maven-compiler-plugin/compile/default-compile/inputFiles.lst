@@ -1,0 +1,5 @@
+/home/ec2-user/projects/sample-ecommerce-app/src/main/java/com/example/ecommerce/EcommerceApplication.java
+/home/ec2-user/projects/sample-ecommerce-app/src/main/java/com/example/ecommerce/config/WebConfig.java
+/home/ec2-user/projects/sample-ecommerce-app/src/main/java/com/example/ecommerce/controller/ProductController.java
+/home/ec2-user/projects/sample-ecommerce-app/src/main/java/com/example/ecommerce/model/Product.java
+/home/ec2-user/projects/sample-ecommerce-app/src/main/java/com/example/ecommerce/service/ProductService.java
