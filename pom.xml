@@ -28,7 +28,7 @@
         <!-- SonarQube -->
         <sonar.projectKey>sample-ecommerce-app</sonar.projectKey>
         <sonar.projectName>Sample Ecommerce App</sonar.projectName>
-        <sonar.host.url>http://13.233.212.228:9000</sonar.host.url>
+        <sonar.host.url>http://13.235.75.64:9000</sonar.host.url>
 
         <!-- Username/Password Authentication -->
         <sonar.login>admin</sonar.login>
