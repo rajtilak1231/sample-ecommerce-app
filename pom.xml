@@ -32,7 +32,6 @@
         <sonar.projectKey>sample-ecommerce-app</sonar.projectKey>
         <sonar.projectName>Sample Ecommerce App</sonar.projectName>
         <sonar.host.url>http://13.233.116.246:9000</sonar.host.url>
-        <sonar.token>${env.SONAR_TOKEN}</sonar.token>
 
         <!-- Nexus -->
         <nexus.url>http://YOUR_NEXUS_SERVER:8081</nexus.url>
