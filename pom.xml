@@ -31,9 +31,7 @@
         <!-- SonarQube -->
         <sonar.projectKey>sample-ecommerce-app</sonar.projectKey>
         <sonar.projectName>Sample Ecommerce App</sonar.projectName>
-        <sonar.host.url>http://13.233.116.246:9000</sonar.host.url>
-
-        <! this is webhook -->     
+        <sonar.host.url>http://13.233.116.246:9000</sonar.host.url>   
 
         <!-- Nexus -->
         <nexus.url>http://YOUR_NEXUS_SERVER:8081</nexus.url>
