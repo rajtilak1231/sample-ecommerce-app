@@ -100,13 +100,13 @@
         <repository>
             <id>nexus</id>
             <name>Nexus Releases</name>
-            <url>http://3.108.54.90:8082/tilak/repository/sample-ecommerce-release/</url>
+            <url>http://13.201.228.196:8081/repository/sample-ecommerce-release/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Nexus Snapshots</name>
-            <url>http://3.108.54.90:8082/tilak/repository/sample-ecommerce-snapshot/</url>
+            <url>http://http://13.201.228.196:8081/repository/sample-ecommerce-snapshot/</url>
         </snapshotRepository>
 
     </distributionManagement>
